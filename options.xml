@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sensitivity>4.03045368</sensitivity>
+  <fov>75.64769</fov>
+  <showHelp>false</showHelp>
+  <currentEquipmentIndeces>
+    <int>0</int>
+    <int>1</int>
+    <int>0</int>
+    <int>3</int>
+    <int>0</int>
+    <int>0</int>
+  </currentEquipmentIndeces>
+</Options>

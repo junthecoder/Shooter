@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: e22951e8cda7cb941a32ebb1487c70cf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Body
+    100004: Body2
+    100006: Cube
+    100008: Grip
+    100010: //RootNode
+    100012: Magazine
+    100014: Magazine_Catch
+    100016: Muzzle_Holes
+    100018: Rail
+    100020: Recoil_Pad
+    100022: Stock
+    100024: Trigger
+    100026: Trigger_Guard
+    100028: Iron_Sight
+    100030: point_attatchment
+    100032: point_muzzle
+    100034: point_sight
+    100036: Cube_001
+    100038: point_ejection
+    100040: point_stock
+    100042: point_lefthand
+    100044: point_righthand
+    100046: Bolt
+    100048: RailTable
+    400000: Barrel
+    400002: Body
+    400004: Body2
+    400006: Cube
+    400008: Grip
+    400010: //RootNode
+    400012: Magazine
+    400014: Magazine_Catch
+    400016: Muzzle_Holes
+    400018: Rail
+    400020: Recoil_Pad
+    400022: Stock
+    400024: Trigger
+    400026: Trigger_Guard
+    400028: Iron_Sight
+    400030: point_attatchment
+    400032: point_muzzle
+    400034: point_sight
+    400036: Cube_001
+    400038: point_ejection
+    400040: point_stock
+    400042: point_lefthand
+    400044: point_righthand
+    400046: Bolt
+    400048: RailTable
+    2300000: Barrel
+    2300002: Body
+    2300004: Body2
+    2300006: Cube
+    2300008: Grip
+    2300010: Magazine
+    2300012: Magazine_Catch
+    2300014: Muzzle_Holes
+    2300016: Rail
+    2300018: Recoil_Pad
+    2300020: Stock
+    2300022: Trigger
+    2300024: Trigger_Guard
+    2300026: Iron_Sight
+    2300028: point_attatchment
+    2300030: point_muzzle
+    2300032: point_sight
+    2300034: Cube_001
+    2300036: point_ejection
+    2300038: point_stock
+    2300040: point_lefthand
+    2300042: point_righthand
+    2300044: Bolt
+    2300046: RailTable
+    3300000: Barrel
+    3300002: Body
+    3300004: Body2
+    3300006: Cube
+    3300008: Grip
+    3300010: Magazine
+    3300012: Magazine_Catch
+    3300014: Muzzle_Holes
+    3300016: Rail
+    3300018: Recoil_Pad
+    3300020: Stock
+    3300022: Trigger
+    3300024: Trigger_Guard
+    3300026: Iron_Sight
+    3300028: point_attatchment
+    3300030: point_muzzle
+    3300032: point_sight
+    3300034: Cube_001
+    3300036: point_ejection
+    3300038: point_stock
+    3300040: point_lefthand
+    3300042: point_righthand
+    3300044: Bolt
+    3300046: RailTable
+    4300000: Muzzle_Holes
+    4300002: Cube
+    4300004: Body
+    4300006: Trigger
+    4300008: Body2
+    4300010: Recoil_Pad
+    4300012: Stock
+    4300014: Trigger_Guard
+    4300016: Grip
+    4300018: Magazine
+    4300020: Barrel
+    4300022: Magazine_Catch
+    4300024: Rail
+    4300026: Iron_Sight
+    4300028: Cube_001
+    4300034: Bolt
+    4300046: RailTable
+    7400000: default
+    7400002: Back
+    7400004: Forward
+    7400006: Back
+    7400008: default //// point_righthand
+    7400010: Back //// point_righthand
+    7400012: default //// point_lefthand
+    7400014: Back //// point_lefthand
+    7400016: default //// Cube_001
+    7400018: Back //// Cube_001
+    7400020: default //// point_stock
+    7400022: Back //// point_stock
+    7400024: default //// point_ejection
+    7400026: Back //// point_ejection
+    7400028: default //// point_attatchment
+    7400030: Back //// point_attatchment
+    7400032: default //// point_muzzle
+    7400034: Back //// point_muzzle
+    7400036: default //// point_sight
+    7400038: Back //// point_sight
+    7400040: default //// Muzzle_Holes
+    7400042: Back //// Muzzle_Holes
+    7400044: default //// Cube
+    7400046: Back //// Cube
+    7400048: default //// Body
+    7400050: Back //// Body
+    7400052: default //// Trigger
+    7400054: Back //// Trigger
+    7400056: default //// Body2
+    7400058: Back //// Body2
+    7400060: default //// Recoil_Pad
+    7400062: Back //// Recoil_Pad
+    7400064: default //// Stock
+    7400066: Back //// Stock
+    7400068: default //// Trigger_Guard
+    7400070: Back //// Trigger_Guard
+    7400072: default //// Grip
+    7400074: Back //// Grip
+    7400076: default //// Magazine
+    7400078: Back //// Magazine
+    7400080: default //// Barrel
+    7400082: Back //// Barrel
+    7400084: default //// Magazine_Catch
+    7400086: Back //// Magazine_Catch
+    7400088: default //// Rail
+    7400090: Back //// Rail
+    7400092: default //// Bolt
+    7400094: Back //// Bolt
+    7400096: default //// RailTable
+    7400098: Back //// RailTable
+    7400100: Back
+    7400102: Default Take //// point_righthand
+    7400104: Default Take //// point_lefthand
+    7400106: Default Take //// Bolt
+    7400108: Default Take //// point_stock
+    7400110: Default Take //// point_ejection
+    7400112: Default Take //// point_attatchment
+    7400114: Default Take //// point_muzzle
+    7400116: Default Take //// point_sight
+    7400118: Default Take //// Muzzle_Holes
+    7400120: Default Take //// RailTable
+    7400122: Default Take //// Body
+    7400124: Default Take //// Trigger
+    7400126: Default Take //// Body2
+    7400128: Default Take //// Recoil_Pad
+    7400130: Default Take //// Stock
+    7400132: Default Take //// Trigger_Guard
+    7400134: Default Take //// Grip
+    7400136: Default Take //// Magazine
+    7400138: Default Take //// Barrel
+    7400140: Default Take //// Magazine_Catch
+    7400142: Default Take //// Rail
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: Barrel
+    11100004: Body
+    11100006: Body2
+    11100008: Cube
+    11100010: Cube_001
+    11100012: Grip
+    11100014: Magazine
+    11100016: Magazine_Catch
+    11100018: Muzzle_Holes
+    11100020: point_attatchment
+    11100022: point_ejection
+    11100024: point_lefthand
+    11100026: point_muzzle
+    11100028: point_righthand
+    11100030: point_sight
+    11100032: point_stock
+    11100034: Rail
+    11100036: Recoil_Pad
+    11100038: Stock
+    11100040: Trigger
+    11100042: Trigger_Guard
+    11100044: Bolt
+    11100046: RailTable
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 2
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: default
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: .100000009
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Back
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
