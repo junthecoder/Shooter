@@ -10,8 +10,6 @@ public class Player : Soldier
 	{
         base.Start();
 
-		GetComponent<Renderer>().enabled = false;
-
         Screen.lockCursor = true;
 
 		OnDamaged += Player_OnDamaged;

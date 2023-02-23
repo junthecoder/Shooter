@@ -35,7 +35,7 @@ public class PauseMenu : MonoBehaviour {
 			if (component != this)
 				component.enabled = !IsPausing;
 
-		Camera.main.GetComponent<MouseLook>().enabled = !IsPausing;
+		Camera.main.GetComponent<MyMouseLook>().enabled = !IsPausing;
 		Screen.lockCursor = !IsPausing;
 
 		state = State.Main;
